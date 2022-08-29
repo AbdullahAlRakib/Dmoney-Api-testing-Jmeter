@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1661745195992,78,Login,200,OK,Thread Group 1-1,text,true,,533,314,1,1,http://dmoney.professionaltrainingbd.com/user/login,74,0,34
+1661745196126,36,Create User,201,Created,Thread Group 1-1,text,true,,589,611,1,1,http://dmoney.professionaltrainingbd.com/user/create,36,0,0
+1661745196163,25,Search User ,200,OK,Thread Group 1-1,text,true,,540,421,1,1,http://dmoney.professionaltrainingbd.com/user/search?id=4728,25,0,0
+1661745196188,2574,User List,200,OK,Thread Group 1-1,text,true,,788301,411,1,1,http://dmoney.professionaltrainingbd.com/user/list,2572,0,0
